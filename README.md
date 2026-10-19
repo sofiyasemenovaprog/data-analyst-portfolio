@@ -16,6 +16,13 @@ SQL, Metabase. Продуктовые метрики (MAU/DAU/Sticky Factor), k-
 Навыки:
 Python (pandas, scipy, matplotlib) · SQL · A/B-тестирование и статистические тесты · Excel (продвинутый, xlsxwriter, дашборды) · Jupyter Notebook · Metabase · Визуализация данных
 
+Достижения:
+<details>
+  <summary> Диплом победителя экономической игры форума «Полимерум»</summary>
+  <br>
+  <img src="polimerium_diplom.jpg" alt="Диплом Полимерум" width="600">
+</details>
+
 Контакты: 
 
 	•	Telegram: @ssson4ick
